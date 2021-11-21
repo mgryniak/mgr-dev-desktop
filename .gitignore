@@ -1,0 +1,9 @@
+dev/.cache
+dev/.gnupg
+dev/.x2go
+dev/.local
+dev/.ICEauthority
+dev/.Xauthority
+dev/.xsession-x2go-*
+dev/media
+dev/.config/dconf
