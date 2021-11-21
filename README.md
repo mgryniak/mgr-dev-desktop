@@ -1,0 +1,1 @@
+# docker-mgr-dev-desktop
